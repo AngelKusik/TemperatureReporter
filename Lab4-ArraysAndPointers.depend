@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1648001911 source:c:\users\angel\desktop\dcwinter22\oop1\oopprograms\lab4-arraysandpointers\main.cpp
+	<iostream>
+	<iomanip>
+	<stdexcept>
+
